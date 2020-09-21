@@ -1,5 +1,5 @@
 {
-  "name": "nano.js",
+  "name": "@nano.js/nano.js",
   "version": "1.0.0",
   "description": "Minimalist DOM manipulation library for ES6 JavaScript",
   "main": "nano.js",
