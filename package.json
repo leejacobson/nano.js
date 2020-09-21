@@ -1,0 +1,23 @@
+{
+  "name": "nano.js",
+  "version": "1.0.0",
+  "description": "Minimalist DOM manipulation library for ES6 JavaScript",
+  "main": "nano.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leejacobson/nano.js.git"
+  },
+  "keywords": [
+    "dom",
+    "es6",
+    "jquery"
+  ],
+  "author": "Lee Jacobson",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/leejacobson/nano.js/issues"
+  },
+  "homepage": "https://github.com/leejacobson/nano.js#readme"
+}
